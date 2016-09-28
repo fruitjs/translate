@@ -9,8 +9,7 @@ There are three different languages we are maintaining and more languages can be
 2. Espanish - translate\app\translate\lang-es.ts
 3. Hindi - translate\app\translate\lang-hi.ts
 
-In the given above typescript files we can maintain our dictionary. 
-
+###In the given above typescript files we can maintain our dictionary. 
 1. Package driven approach
 2. We can use this translation either by pipe notation or by using identifiers in our service file. The Demo app covers both ways.
 3. Custom pipe is used to translate - [TranslatePipe](https://github.com/fruitjs/translate/blob/master/app/translate/translate.pipe.ts)
